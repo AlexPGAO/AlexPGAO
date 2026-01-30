@@ -46,10 +46,6 @@ I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threa
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-### Other Skills
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
 ## 🎓 Certifications
 
 - 🏅 **Google Cybersecurity Professional Certificate** (December 2023)
