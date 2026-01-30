@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander Page 👋
+# Hi there, I'm Alex 👋
 
 <div align="center">
   
@@ -16,7 +16,6 @@ I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threa
 - 🏆 **Google Cybersecurity Professional Certificate** holder
 - 💼 3+ years of experience in security operations and incident response
 - 💬 Ask me about **cybersecurity, security monitoring, threat detection, and Linux**
-- 📫 How to reach me: **alexpagehere@gmail.com**
 - ⚡ Fun fact: I love assembling computers and managing my personal homelab!
 
 ## 🔐 Cybersecurity Focus
