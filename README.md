@@ -50,7 +50,6 @@ I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threa
 
 - 🏅 **Google Cybersecurity Professional Certificate** (December 2023)
 - 📚 **CompTIA Security+** (In Progress - April 2026)
-- 📚 **SIMnet 
 
 ## 🔥 Current Projects
 
