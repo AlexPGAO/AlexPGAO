@@ -51,11 +51,6 @@ I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threa
 - 🏅 **Google Cybersecurity Professional Certificate** (December 2023)
 - 📚 **CompTIA Security+** (In Progress - April 2026)
 
-## 🔥 Current Projects
-
-🚧 Check out my pinned repositories below for my latest work in cybersecurity, scripting, and development!
-https://github.com/AlexPGAO?tab=repositories
-
 ## 🎯 2026 Goals
 
 - ✅ Complete CompTIA Security+ Certification
