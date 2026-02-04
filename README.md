@@ -15,7 +15,7 @@ I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threa
 - 🎓 Senior pursuing **BBA in Management Information Systems** from Western CT State University
 - 🏆 **Google Cybersecurity Professional Certificate** holder
 - 💼 3+ years of experience in security operations and incident response
-- 💬 Ask me about **cybersecurity, security monitoring, threat detection, and Linux**
+- 💬 Currently working on blue team tools
 - ⚡ Fun fact: I love assembling computers and managing my personal homelab!
 
 ## 🔐 Cybersecurity Focus
