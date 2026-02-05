@@ -18,16 +18,6 @@ I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threa
 - 💬 Currently working on blue team tools
 - ⚡ Fun fact: I love assembling computers and managing my personal homelab!
 
-## 🔐 Cybersecurity Focus
-
-```text
-🎯 Security Operations Center (SOC) Operations
-🚨 Incident Detection & Response
-📹 Security Monitoring & Surveillance
-🤖 AI-Driven Security Analytics
-🔍 Threat Analysis & Investigation
-```
-
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
