@@ -1,6 +1,4 @@
-# Hi there, I'm Alex 👋
-
-![n0HOqk](https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93)
+![435fasrf453](https://github.com/user-attachments/assets/29d95133-e595-483e-b354-4eca0332f27a)
 
 <div align="center">
   
@@ -11,7 +9,7 @@
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity Professional** and **SOC Operator** passionate about threat detection, security monitoring, and building secure systems.
+Hi There, I'm Alex, a **Cybersecurity Professional** and **SOC Operator** passionate about threat detection, security monitoring, and building secure systems.
 
 - 🌱 I'm currently pursuing **CompTIA Security+ Certification** (April 2026)
 - 🎓 Senior pursuing **BBA in Management Information Systems** from Western CT State University
