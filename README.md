@@ -1,5 +1,7 @@
 # Hi there, I'm Alex 👋
 
+![n0HOqk](https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93)
+
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-page-8086822a5/)
